@@ -7,10 +7,13 @@ Welcome to MOEXalgo's documentation!
 ==================================================
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 2
    :caption: Contents:
 
+   candels
    modules
+   moexalgo
+   _static/conf
 
 Indices and tables
 ==================
